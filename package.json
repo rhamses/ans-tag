@@ -1,0 +1,23 @@
+{
+  "name": "ans-tag",
+  "version": "1.0.0",
+  "description": "Um web component que cria um selo ANS de plano de saúde",
+  "main": "ans-tag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhamses/ans-tag.git"
+  },
+  "keywords": [
+    "ans",
+    "webcomponent"
+  ],
+  "author": "Rhamses Soares",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/rhamses/ans-tag/issues"
+  },
+  "homepage": "https://github.com/rhamses/ans-tag#readme"
+}
